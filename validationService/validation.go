@@ -1,5 +1,4 @@
-package validation
-
+package validationService
 import (
 	"errors"
 	"fmt"
